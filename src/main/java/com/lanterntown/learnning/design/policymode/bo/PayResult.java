@@ -1,4 +1,4 @@
-package com.lanterntown.learnning.design.policyMode.bo;
+package com.lanterntown.learnning.design.policymode.bo;
 
 /**
  * @Description

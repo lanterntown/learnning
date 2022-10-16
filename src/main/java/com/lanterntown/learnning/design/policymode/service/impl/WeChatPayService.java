@@ -1,8 +1,8 @@
-package com.lanterntown.learnning.design.policyMode.service.impl;
+package com.lanterntown.learnning.design.policymode.service.impl;
 
-import com.lanterntown.learnning.design.policyMode.bo.PayRequest;
-import com.lanterntown.learnning.design.policyMode.bo.PayResult;
-import com.lanterntown.learnning.design.policyMode.service.PayService;
+import com.lanterntown.learnning.design.policymode.bo.PayRequest;
+import com.lanterntown.learnning.design.policymode.bo.PayResult;
+import com.lanterntown.learnning.design.policymode.service.PayService;
 import org.springframework.stereotype.Service;
 
 @Service("weChatPayService")
